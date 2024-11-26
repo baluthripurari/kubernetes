@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 ## Kubernetes
 * eksctl ---> AWS CLI tool for managing EKS clusters
 * kubectl ---> CLI tool for managing Kubernetes clusters
@@ -27,3 +29,10 @@
 - kubectl get podtemplate ---> Get a list of all pod templates in the cluster
 - kubectl get poddisruptionbudget ---> Get a list of all pod disruption budgets in the cluster
 - kubectl get podsecuritypolicy ---> Get a list of all pod security policies in the cluster
+
+
+
+## K8 Resources
+Namespace --> Isolated project where you can create resources related to your application
+
+
